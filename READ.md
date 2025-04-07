@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Cece Foltz and I'm a marketing specialist and student, from St.Louis, MO.</h2>
 
 ###
 
