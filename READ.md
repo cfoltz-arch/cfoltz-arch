@@ -21,16 +21,16 @@ Architecture enthusiast and digital designer. I love creating functional and bea
 - Architectural visualization
 
 ## 💼 Skills
-- Architectural Design
-- CAD/BIM Software
+- Design
+- GIS Software
 - 3D Modeling
 - Sustainable Design
 - Project Management
 
 ## 📫 Connect with Me
-- Portfolio: [My Website](https://sites.google.com/slu.edu/cecefoltz)
-- Email: [email@example.com](foltzcece@gmail.com)
-- Handshake: [Your Handshake](https://slu.joinhandshake.com/profiles/mthpzp)
+- Portfolio: [https://sites.google.com/slu.edu/cecefoltz](https://sites.google.com/slu.edu/cecefoltz)
+- Email: [foltzcece@gmail.com](foltzcece@gmail.com)
+- Handshake: [https://slu.joinhandshake.com/profiles/mthpzp](https://slu.joinhandshake.com/profiles/mthpzp)
 
 ## 📊 My GitHub Stats
 
