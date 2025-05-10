@@ -29,8 +29,8 @@ Architecture enthusiast and digital designer. I love creating functional and bea
 
 ## 📫 Connect with Me
 - Portfolio: [My Website](https://sites.google.com/slu.edu/cecefoltz)
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: [email@example.com](foltzcece@gmail.com)
+- Handshake: [Your Handshake](https://slu.joinhandshake.com/profiles/mthpzp)
 
 ## 📊 My GitHub Stats
 
