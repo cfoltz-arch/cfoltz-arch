@@ -1,4 +1,4 @@
-## Hi there 👋Check out my Read.Md for more #using rainbow emoji
+## Hi there 👋Check out my Read.Md for more🌈
 
 <!--
 **cfoltz-arch/cfoltz-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
