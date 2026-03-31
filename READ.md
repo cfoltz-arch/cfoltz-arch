@@ -49,7 +49,7 @@ To display your website directly in your GitHub profile, you can embed an image 
 -->
 
 <div align="center">
-  <h3>Visit My Website</h3>
+  <h3>Visit My SLU Google Site</h3>
   <a href="https://sites.google.com/slu.edu/cecefoltz">
     <img src="https://i.imgur.com/placeholder.png" alt="Website Preview" width="600" />
   </a>
